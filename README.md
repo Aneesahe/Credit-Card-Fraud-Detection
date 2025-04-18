@@ -27,6 +27,13 @@ This project uses machine learning algorithms in R to detect fraudulent transact
 - Decision Trees showed a slightly better AUC performance than Logistic Regression
 - Statistical tests conducted to validate model comparison
 - ROC curves and median AUC scores were used for multi-run evaluation
+## 📊 Visualizations
+
+### Violin Plot - Transaction Amount by Class  
+![Violin Plot](images/fraud_report_page_6.png)
+
+### ROC Curve - Model Performance  
+![ROC Curve](images/fraud_report_page_7.png)
 
 ## 📂 Structure
 
